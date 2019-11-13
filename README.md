@@ -4,7 +4,7 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 ##These all the code are compile in ubantu 18.04
 
 ##Install Dependecies and Libraries require in OpenCv one by one as follows -
->> sudo apt-get update
+>> sudo apt-get update  /n \n
 >> sudo apt install python3-pip
 >> python3 -version  // python3 --version
 >> pip3 install numpy
