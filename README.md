@@ -13,6 +13,8 @@ OpenCV is a library of programming functions mainly aimed at real-time computer 
 >> pip3 install scikit-learn <br>
 >> pip3 install -U scikit-image   <br>
 >> pip3 install opencv-python // pip install opencv_contrib_python     <br>
+>> pip3 install cmake  <br>
+>> pip3 install face_recognition <br>
 
 
 ##Sequence of code for better understand are as follows -
